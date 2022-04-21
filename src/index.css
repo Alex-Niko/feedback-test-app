@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: 'Circular Std';
+  background: #fcf5f3;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+:root {
+  --lilac: #464bff;
+}
+
+body * {
+  font-size: 16px;
+}
+
+h1, h2 {
+  margin: 16px 0;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 53px;
+}
+
+h2 { 
+  font-size: 32px;
+  line-height: 40,48px;
+}
+
+p, button {
+  color: #736B7E;
+}
+
+p {
+  line-height: 20.24px
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  transition: all .2s;
+}

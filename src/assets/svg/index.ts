@@ -1,0 +1,1 @@
+export { PageLogoIcon } from "./pageLogoIcon";
